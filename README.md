@@ -64,6 +64,8 @@ _Pré-requisito_: Conta no Google
 ----
 ## 3 Cursos
 
-- https://www.alura.com.br/cursos-online-programacao/logica
+- Lógica de Programação https://www.alura.com.br/cursos-online-programacao/logica
 
-- https://www.alura.com.br/cursos-online-programacao/python
+- Python -  https://www.alura.com.br/cursos-online-programacao/python
+
+- Data Science -  https://www.alura.com.br/formacao-data-science
